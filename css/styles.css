@@ -1,7 +1,19 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    body {
+        background-color: #152028;
+        color: white;
+    }
+}
+
 h1 {
     margin: 25px;
-  }
+}
 
 p {
-  margin: 25px;
+    margin: 25px;
 }
