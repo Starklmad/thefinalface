@@ -12,6 +12,10 @@ body {
         background-color: #43616f;
         color: white;
     }
+    .footer {
+        background-color: #152028;
+        color: white;
+    }
 }
 
 h1 {
@@ -20,4 +24,14 @@ h1 {
 
 p {
     margin: 25px;
+}
+
+.footer {
+    bottom: 0;
+    height: 2em;
+    left: 0;
+    position: relative;
+    font-size: small;
+    width: 100%;
+    text-align: center;
 }
