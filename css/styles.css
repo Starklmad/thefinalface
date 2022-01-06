@@ -1,22 +1,12 @@
 body {
     margin-bottom: 60px;
-    background-color: #cccccc;
-    color: black;
+    background-color: #152028;
+    color: white;
 }
 
-@media screen and (prefers-color-scheme: dark) {
-    body {
-        background-color: #152028;
-        color: white;
-    }
-    .jumbotron {
-        background-color: #43616f;
-        color: white;
-    }
-    footer {
-        background-color: #152028;
-        color: white;
-    }
+.jumbotron {
+    background-color: #43616f;
+    color: white;
 }
 
 html {
@@ -51,4 +41,4 @@ h2 {
 
 .aboutPic {
     border-radius: 50%;
-  }
+}
