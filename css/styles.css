@@ -1,7 +1,13 @@
 body {
+    background-image: url('../images/background.jpg');
+
     margin-bottom: 60px;
     background-color: #152028;
     color: white;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 .jumbotron {
