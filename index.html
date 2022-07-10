@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+        integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+        crossorigin="" />
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
@@ -14,9 +17,8 @@
     <title>The Final Face</title>
 </head>
 
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <a class="navbar-brand" href="./index">
-        <img src="./images/circle_color.png" width="30" height="30" class="d-inline-block align-top" alt="The Final Face"> The
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"> The
         Final Face
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -28,17 +30,20 @@
         <ul class="navbar-nav ml-auto">
 
             <li class="nav-item">
-                <a class="nav-link" href="./episodes">Episodes</a>
+                <a class="nav-link" href="#episodes">Episodes</a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="./about">Behind the Face</a>
+                <a class="nav-link" href="#themap">The Map</a>
             </li>
 
             <li class="nav-item">
-                <a class="nav-link" href="./support">Support the Podcast</a>
+                <a class="nav-link" href="#about">Behind the Face</a>
             </li>
 
+            <li class="nav-item">
+                <a class="nav-link" href="#support">Support the Podcast</a>
+            </li>
         </ul>
     </div>
 </nav>
@@ -47,23 +52,100 @@
 
     <div class="container">
 
-        <h1 class="text-center text-sm-left">The Final Face</h1>
+        <div id="index" class="mb-5">
+            <h1 class="text-center text-sm-left">The Final Face</h1>
 
-        <p>The Final Face is an audio adventure story about war, love, and bloody revenge. Tune in every Monday for new episodes. Listen to the first episode below, or click <a href="./episodes">here</a> for all of the episodes.</p>
+            <p>The Final Face is an audio adventure story about war, love, and bloody revenge. Tune in every Monday for
+                new episodes. Listen to the first episode below.</p>
 
-        <div id="buzzsprout-player-10736627"></div><script src="https://www.buzzsprout.com/1906631/10736627-01-two-dead-men-and-a-barkeep.js?container_id=buzzsprout-player-10736627&player=small" type="text/javascript" charset="utf-8"></script>
+            <!-- <div class="row">
+                <button class="btn btn-primary col-md-4 col-sm-12 text-center">Test1</button>
+                <button class="btn btn-secondary col-md-4 col-sm-12 text-center">Test2</button>
+                <button class="btn btn-success col-md-4 col-sm-12 text-center">Test3</button>
+            </div> -->
 
-        <div class="text-center">
-            <img src="./images/map.png" class="img-fluid" style="background-color: whitesmoke;" alt="Map">
+            <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175"
+                style="width:100%;max-width:660px;overflow:hidden;background:transparent;"
+                sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+                src="https://embed.podcasts.apple.com/us/podcast/01-two-dead-men-and-a-barkeep/id1627929793?i=1000565229367"></iframe>
+
+        </div>
+
+        <div id="themap" class="mt-5 mb-5">
+            <h1 class="text-center text-sm-left">The Map</h1>
+            <div id="map"></div>
+        </div>
+
+        <div id="episodes" class="mt-5 mb-5">
+            <h1 class="text-center text-sm-left">Episodes</h1>
+
+            <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450"
+                style="width:100%;max-width:660px;overflow:hidden;background:transparent;"
+                sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+                src="https://embed.podcasts.apple.com/us/podcast/the-final-face/id1627929793"></iframe>
+        </div>
+
+        <div id="about" class="mt-5 mb-5">
+            <h1 class="text-center text-sm-left">Behind the Face</h1>
+
+            <p>The podcast is recorded in North Carolina and
+                Arizona. Music by Sebastian Stark. </p>
+
+            <h2 class="text-center">The Crew</h2>
+
+            <div class="row">
+
+                <div class="col-sm-3 col-xs-12 text-center text-sm-right mb-1">
+                    <img src="./images/Sebastian.png" class="img-fluid aboutPic" alt="Sabastian Stark">
+                </div>
+                <div class="col-sm-9 col-xs-12 text-center text-sm-left mb-4">
+                    <div class="aboutName">Sebastian</div>
+                    <div>Voice Actor and Audio Engineer</div>
+                </div>
+
+                <div class="col-sm-3 col-xs-12 text-center text-sm-right mb-1">
+                    <img src="./images/Katrina.png" class="img-fluid aboutPic" alt="Katrina Camp">
+                </div>
+                <div class="col-sm-9 col-xs-12 text-center text-sm-left mb-4">
+                    <div class="aboutName">Katrina</div>
+                    <div>Voice Actor</div>
+                </div>
+
+                <div class="col-sm-3 col-xs-12 text-center text-sm-right mb-1">
+                    <img src="./images/Michael.png" class="img-fluid aboutPic" alt="Michael Camp">
+                </div>
+                <div class="col-sm-9 col-xs-12 text-center text-sm-left mb-4">
+                    <div class="aboutName">Michael</div>
+                    <div>Website</div>
+                </div>
+
+            </div>
+        </div>
+
+        <div id="support" class="mt-5 mb-5">
+            <h1 class="text-center text-sm-left">Support the Podcast</h1>
+
+            <p class="mb-1">This podcast is made possible by donations from our supporters. Use the links below to
+                support the production.</p>
+
+            <ul>
+                <li>Buy the book on <a href="https://www.amazon.com/Final-Face-Sebastian-Stark/dp/152154588X"
+                        rel="noreferrer noopener" class="btn-link">Amazon</a></li>
+
+                <li><a href="https://www.buymeacoffee.com/starklmadW" rel="noreferrer noopener" class="btn-link">Buy me
+                        a
+                        coffee</a></li>
+            </ul>
+        </div>
+
+        <div style="height: 70vh;">
+        </div>
+
+        <div>
+            <div class="text-muted text-center">&copy; Sebastian's Stories</div>
         </div>
 
     </div>
-
-    <footer class="footer">
-        <div class="container">
-            <span class="text-muted">&copy; Sebastian's Stories</span>
-        </div>
-    </footer>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -74,7 +156,26 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
-</body>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
 
+    <script>
+        var map = L.map('map', {
+            center: [70, 50],
+            zoom: 4,
+            minZoom: 3,
+            maxZoom: 5
+        });
+
+        var imageUrl = './images/map.svg',
+            imageBounds = [[0, 0], [100, 100]];
+
+        L.imageOverlay(imageUrl, imageBounds).addTo(map);
+
+        map.attributionControl.setPrefix('thefinalface.com')
+
+    </script>
+</body>
 
 </html>
