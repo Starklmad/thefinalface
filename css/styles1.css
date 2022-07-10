@@ -1,11 +1,6 @@
 body {
-    margin-bottom: 160px;
-}
-
-html {
-    position: relative;
-    min-height: 100%;
-    font-size: 1rem;
+    font-family: Georgia, serif;
+    font-size: 1.25rem;
 }
 
 .aboutName {
@@ -15,4 +10,8 @@ html {
 
 .aboutPic {
     border-radius: 50%;
+}
+
+h1 {
+    text-shadow: 2px 3px 3px rgba(0,0,0,0.25);
 }
