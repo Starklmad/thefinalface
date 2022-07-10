@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
+        integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+        crossorigin="" />
     <link rel="stylesheet" href="./css/styles1.css">
     <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
@@ -69,12 +72,15 @@
 
         </div>
 
-        <div id="map" class="mt-5 mb-5">
+        <div class="mt-5 mb-5">
             <h1 class="text-center text-sm-left">The Map</h1>
 
-            <div class="text-center">
+            <!-- <div class="text-center">
                 <img src="./images/map.png" class="img-fluid" style="background-color: whitesmoke;" alt="Map">
-            </div>
+            </div> -->
+
+            <div id="map"></div>
+
         </div>
 
         <div id="episodes" class="mt-5 mb-5">
@@ -154,6 +160,22 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
+        integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
+        crossorigin=""></script>
+
+    <script>
+        var map = L.map('map', {
+            center: [70, 50],
+            zoom: 4
+        });
+
+        var imageUrl = './images/map.svg',
+            imageBounds = [[0, 0], [100, 100]];
+
+        L.imageOverlay(imageUrl, imageBounds).addTo(map);
+
+    </script>
 </body>
 
 </html>
