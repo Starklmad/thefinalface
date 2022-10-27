@@ -1,0 +1,504 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/1906631.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>The Final Face</title>
+  <lastBuildDate>Wed, 26 Oct 2022 20:55:34 -0400</lastBuildDate>
+  <link>https://www.thefinalface.com</link>
+  <language>en-us</language>
+  <copyright>© 2022 The Final Face</copyright>
+  <podcast:locked>yes</podcast:locked>
+<podcast:guid>5fb50b9f-9756-5437-9815-becb6c84c88c</podcast:guid>
+  <itunes:author>Sebastian Stark</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>true</itunes:explicit>
+  <description><![CDATA[The Final Face is an audio adventure saga. Follow the life and crimes of young Veluze in a dark fantasy that will test your very sense of right and wrong.]]></description>
+  <itunes:owner>
+    <itunes:name>Sebastian Stark</itunes:name>
+    <itunes:email>starklmad@gmail.com</itunes:email>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/variants/m9yx6qpfwyh5grcpjkubvbt8p2n5/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg</url>
+     <title>The Final Face</title>
+     <link></link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/variants/m9yx6qpfwyh5grcpjkubvbt8p2n5/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+  <itunes:category text="Fiction" />
+  <item>
+    <itunes:title>26 Avenger</itunes:title>
+    <title>26 Avenger</title>
+    <description><![CDATA[<p>Veluze and Marius surrender any hope of escape and set their course towards bloody revenge.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze and Marius surrender any hope of escape and set their course towards bloody revenge.</p>]]></content:encoded>
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11554209-26-avenger.mp3" length="23882653" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11554209</guid>
+    <pubDate>Mon, 24 Oct 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1984</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>26</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>25 Escape</itunes:title>
+    <title>25 Escape</title>
+    <description><![CDATA[<p>Veluze and Marius discover the true purpose of the Iron Den.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze and Marius discover the true purpose of the Iron Den.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/dal41gis8vs5qjjtx6vgyk7dqbfh/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11501195-25-escape.mp3" length="15822731" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11501195</guid>
+    <pubDate>Mon, 17 Oct 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1313</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>24 Return</itunes:title>
+    <title>24 Return</title>
+    <description><![CDATA[<p>Veluze and Marius share words and secrets before setting out towards escape.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze and Marius share words and secrets before setting out towards escape.</p>]]></content:encoded>
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11464887-24-return.mp3" length="11722927" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11464887</guid>
+    <pubDate>Mon, 10 Oct 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>971</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>23 Dresnior</itunes:title>
+    <title>23 Dresnior</title>
+    <description><![CDATA[<p>Veluze discovers why he has survived a decade in the Den and just what horrors await him when the winter ends.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze discovers why he has survived a decade in the Den and just what horrors await him when the winter ends.</p>]]></content:encoded>
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11422985-23-dresnior.mp3" length="11808821" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11422985</guid>
+    <pubDate>Mon, 03 Oct 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>978</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>22 Solta&#39;s Poison</itunes:title>
+    <title>22 Solta&#39;s Poison</title>
+    <description><![CDATA[<p>Veluze learns first-hand what has happened to each prisoner taken by the guards.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze learns first-hand what has happened to each prisoner taken by the guards.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/og30oxsezf4hx297kfpo1yavhnvj/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11380402-22-solta-s-poison.mp3" length="6380833" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11380402</guid>
+    <pubDate>Mon, 26 Sep 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>525</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>21 Death and Capture</itunes:title>
+    <title>21 Death and Capture</title>
+    <description><![CDATA[<p>While Marius convalesces, Ophilious instructs Veluze in the art of retaliation.   </p>]]></description>
+    <content:encoded><![CDATA[<p>While Marius convalesces, Ophilious instructs Veluze in the art of retaliation.   </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/2xuimun52aeecsyt7tvadczvyg37/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11339149-21-death-and-capture.mp3" length="16984673" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11339149</guid>
+    <pubDate>Mon, 19 Sep 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1410</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>20 Impetus</itunes:title>
+    <title>20 Impetus</title>
+    <description><![CDATA[<p>Veluze and Marius learn of Ophilious&apos; past and glimpse the power of Inspector Peraan.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze and Marius learn of Ophilious&apos; past and glimpse the power of Inspector Peraan.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/g1q7mz4t1ks6lo0himtlizmq3sjd/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11297729-20-impetus.mp3" length="25117512" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11297729</guid>
+    <pubDate>Mon, 12 Sep 2022 05:00:00 -0400</pubDate>
+    <podcast:soundbite startTime="0.0" duration="30.0" />
+    <itunes:duration>2088</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>19 Enter the Wise Man</itunes:title>
+    <title>19 Enter the Wise Man</title>
+    <description><![CDATA[<p>Veluze and Marius make friends with an old man who has mastered the art of killing.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze and Marius make friends with an old man who has mastered the art of killing.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/ck2rrv2mbt6zyzo5pir4rwufflm8/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11255281-19-enter-the-wise-man.mp3" length="6445461" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11255281</guid>
+    <pubDate>Mon, 05 Sep 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>531</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>18 Adrilion&#39;s Lore</itunes:title>
+    <title>18 Adrilion&#39;s Lore</title>
+    <description><![CDATA[<p>While exploring the Iron Den with his new companion, Marius, Veluze learns of his father and the dire state of Arat under Belhast occupation.</p>]]></description>
+    <content:encoded><![CDATA[<p>While exploring the Iron Den with his new companion, Marius, Veluze learns of his father and the dire state of Arat under Belhast occupation.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/i270fr6iblz3imyvnmchlyzlk3na/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11218646-18-adrilion-s-lore.mp3" length="24036404" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11218646</guid>
+    <pubDate>Sun, 28 Aug 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1996</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>17 Marius Brevel</itunes:title>
+    <title>17 Marius Brevel</title>
+    <description><![CDATA[<p>Veluze discovers an inmate from the ruined Aratrian royal city.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze discovers an inmate from the ruined Aratrian royal city.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/0flw18uuy3t0wk1205abd673k710/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11172386-17-marius-brevel.mp3" length="10358750" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11172386</guid>
+    <pubDate>Mon, 22 Aug 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>858</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>16 Rats</itunes:title>
+    <title>16 Rats</title>
+    <description><![CDATA[<p>Veluze learns the way of a prisoner in the Iron Den.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze learns the way of a prisoner in the Iron Den.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/jvzjgavlvsq28zn8nnu0whzvz9cp/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11123039-16-rats.mp3" length="10939075" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11123039</guid>
+    <pubDate>Mon, 15 Aug 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>907</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>15 Everit&#39;s Iron Den</itunes:title>
+    <title>15 Everit&#39;s Iron Den</title>
+    <description><![CDATA[<p>Veluze finds a new home in the most wretched place in all of Belhast</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze finds a new home in the most wretched place in all of Belhast</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/j32dceoxmq64a8bu0q7nubghby77/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11094366-15-everit-s-iron-den.mp3" length="16595632" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11094366</guid>
+    <pubDate>Mon, 08 Aug 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1378</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>14 Sentencing </itunes:title>
+    <title>14 Sentencing </title>
+    <description><![CDATA[<p>Now Belhast property, Veluze&apos;s fate dangles between the Military and the Ministry of Intelligence.</p>]]></description>
+    <content:encoded><![CDATA[<p>Now Belhast property, Veluze&apos;s fate dangles between the Military and the Ministry of Intelligence.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/wu392upbro936dobzttj2klc2nov/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11053263-14-sentencing.mp3" length="11663090" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11053263</guid>
+    <pubDate>Mon, 01 Aug 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>966</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>2</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>13 Reverie at 301 S Coventry</itunes:title>
+    <title>13 Reverie at 301 S Coventry</title>
+    <description><![CDATA[<p>Freed from the old man&apos;s tale, Rasputin assesses the veracity of the story and reflects on his own ghosts. </p>]]></description>
+    <content:encoded><![CDATA[<p>Freed from the old man&apos;s tale, Rasputin assesses the veracity of the story and reflects on his own ghosts. </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/99k86co768yv1ghmo3algj86f80b/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11016497-13-reverie-at-301-s-coventry.mp3" length="13216735" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11016497</guid>
+    <pubDate>Mon, 25 Jul 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1096</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>13</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>12 Eternal Night</itunes:title>
+    <title>12 Eternal Night</title>
+    <description><![CDATA[<p>Alone and in hiding, Veluze most overcome immediate danger while facing insurmountable grief.</p>]]></description>
+    <content:encoded><![CDATA[<p>Alone and in hiding, Veluze most overcome immediate danger while facing insurmountable grief.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/hfzd6gtw67p3tdqdacp8gzjh66b3/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10968516-12-eternal-night.mp3" length="13895844" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10968516</guid>
+    <pubDate>Mon, 18 Jul 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>1152</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>12</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>11 The End of My Youth</itunes:title>
+    <title>11 The End of My Youth</title>
+    <description><![CDATA[<p>                   [Warning- this episode contains depictions of violence and sexual assault]<br/>Veluze and Fiona visit the forest to bid farewell to their home. However, they soon learn they will be saying goodbye to more than Eastmire. . . .</p>]]></description>
+    <content:encoded><![CDATA[<p>                   [Warning- this episode contains depictions of violence and sexual assault]<br/>Veluze and Fiona visit the forest to bid farewell to their home. However, they soon learn they will be saying goodbye to more than Eastmire. . . .</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/bcyc1drczh549m31qa498sj7azf8/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10933846-11-the-end-of-my-youth.mp3" length="16724970" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10933846</guid>
+    <pubDate>Sun, 10 Jul 2022 07:00:00 -0400</pubDate>
+    <itunes:duration>1388</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>11</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>10 An Unwelcome Guest</itunes:title>
+    <title>10 An Unwelcome Guest</title>
+    <description><![CDATA[<p>A man who knows too much about Arela and Haast pays the farm a visit. </p>]]></description>
+    <content:encoded><![CDATA[<p>A man who knows too much about Arela and Haast pays the farm a visit. </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/vuiqbh94uq65f18n6rl7142z8uzs/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10885211-10-an-unwelcome-guest.mp3" length="16807834" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10885211</guid>
+    <pubDate>Sun, 03 Jul 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>1397</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>09 The Five</itunes:title>
+    <title>09 The Five</title>
+    <description><![CDATA[<p>While at play with Fiona, Veluze happens upon a unit of armed Belhast soldiers. He soon learns that his life in Belhast is changing with dangerous pace.</p>]]></description>
+    <content:encoded><![CDATA[<p>While at play with Fiona, Veluze happens upon a unit of armed Belhast soldiers. He soon learns that his life in Belhast is changing with dangerous pace.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/uuqnu4rwfvftodethuia4z3u4m1o/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10852913-09-the-five.mp3" length="17825792" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10852913</guid>
+    <pubDate>Sun, 26 Jun 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>1485</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>08 Bruises, Cuts, Kisses</itunes:title>
+    <title>08 Bruises, Cuts, Kisses</title>
+    <description><![CDATA[<p>Veluze learns the art of &apos;face changing&apos; and not a moment too soon.</p>]]></description>
+    <content:encoded><![CDATA[<p>Veluze learns the art of &apos;face changing&apos; and not a moment too soon.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/mnav22iwdpmi0tj84xvrpp5k3fko/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10829813-08-bruises-cuts-kisses.mp3" length="14719847" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10829813</guid>
+    <pubDate>Wed, 22 Jun 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>1221</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>07 The Fall of Arat</itunes:title>
+    <title>07 The Fall of Arat</title>
+    <description><![CDATA[<p>A lone inspector in search of a criminal brings grim tidings of the war. </p>]]></description>
+    <content:encoded><![CDATA[<p>A lone inspector in search of a criminal brings grim tidings of the war. </p>]]></content:encoded>
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10813828-07-the-fall-of-arat.mp3" length="11981805" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10813828</guid>
+    <pubDate>Sat, 18 Jun 2022 10:00:00 -0400</pubDate>
+    <itunes:duration>992</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>06 Erudition </itunes:title>
+    <title>06 Erudition </title>
+    <description><![CDATA[<p>While convalescing Veluze comes to learn the art of deception. </p>]]></description>
+    <content:encoded><![CDATA[<p>While convalescing Veluze comes to learn the art of deception. </p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/54yo0zwakajncb8d6e823s677zy5/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10776350-06-erudition.mp3" length="10167096" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10776350</guid>
+    <pubDate>Sun, 12 Jun 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>842</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>05 The Bellrouse&#39;s Cavern</itunes:title>
+    <title>05 The Bellrouse&#39;s Cavern</title>
+    <description><![CDATA[<p>In Eastmire Veluze learns the bitter consequence of curiosity.</p>]]></description>
+    <content:encoded><![CDATA[<p>In Eastmire Veluze learns the bitter consequence of curiosity.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/qw86ko1ccbyc2f1s28q1f5bfq0oa/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10766142-05-the-bellrouse-s-cavern.mp3" length="10052801" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10766142</guid>
+    <pubDate>Thu, 09 Jun 2022 14:00:00 -0400</pubDate>
+    <itunes:duration>831</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>04 The Face Changer</itunes:title>
+    <title>04 The Face Changer</title>
+    <description><![CDATA[<p>While on the road to Eastmire, Haast demonstrates he is far more than a mere farmer.</p>]]></description>
+    <content:encoded><![CDATA[<p>While on the road to Eastmire, Haast demonstrates he is far more than a mere farmer.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/a1je9ch053pijb4m0ddl57az0s7v/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10750837-04-the-face-changer.mp3" length="11138838" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10750837</guid>
+    <pubDate>Tue, 07 Jun 2022 05:00:00 -0400</pubDate>
+    <itunes:duration>924</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>03 Three of a Kind</itunes:title>
+    <title>03 Three of a Kind</title>
+    <description><![CDATA[<p>A mysterious farmer happens upon Veluze and offers something far more valuable than mere sustenance.</p>]]></description>
+    <content:encoded><![CDATA[<p>A mysterious farmer happens upon Veluze and offers something far more valuable than mere sustenance.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/0ok4lhlo3nafr3snp87gh2i5a7r9/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10744040-03-three-of-a-kind.mp3" length="10545646" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10744040</guid>
+    <pubDate>Mon, 06 Jun 2022 06:00:00 -0400</pubDate>
+    <itunes:duration>875</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>02 The Brass Hand</itunes:title>
+    <title>02 The Brass Hand</title>
+    <description><![CDATA[<p>We begin the old drunk&apos;s saga as he tells us of his youth as a refugee in Belhast, hiding from inspectors and begging for crumbs.</p>]]></description>
+    <content:encoded><![CDATA[<p>We begin the old drunk&apos;s saga as he tells us of his youth as a refugee in Belhast, hiding from inspectors and begging for crumbs.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/06g16mos1sw2mxa7wz4n91d6ky7q/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10738896-02-the-brass-hand.mp3" length="11959787" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10738896</guid>
+    <pubDate>Sun, 05 Jun 2022 10:00:00 -0400</pubDate>
+    <itunes:duration>989</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>01 Two Dead Men and a Barkeep</itunes:title>
+    <title>01 Two Dead Men and a Barkeep</title>
+    <description><![CDATA[<p>We are introduced to Rasputin, a weary assassin tasked to kill a hobbling drunk who claims, above all things, to be the tyrant Veluze returned from the grave.  After surreptitiously poisoning the drunk, Rasputin discovers his target knows far more than a man of his position should. . .</p>]]></description>
+    <content:encoded><![CDATA[<p>We are introduced to Rasputin, a weary assassin tasked to kill a hobbling drunk who claims, above all things, to be the tyrant Veluze returned from the grave.  After surreptitiously poisoning the drunk, Rasputin discovers his target knows far more than a man of his position should. . .</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/bksfjsbdyltajdimzk4yh10rkwgg/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/10736627-01-two-dead-men-and-a-barkeep.mp3" length="22030301" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-10736627</guid>
+    <pubDate>Sat, 04 Jun 2022 14:00:00 -0400</pubDate>
+    <itunes:duration>1831</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>00 Prologue: a Bad Bit of Meat</itunes:title>
+    <title>00 Prologue: a Bad Bit of Meat</title>
+    <description><![CDATA[<p>Erabose is conquered and occupied by Aratrian soldiers, but Rasputin hasn&apos;t given up the fight.</p>]]></description>
+    <content:encoded><![CDATA[<p>Erabose is conquered and occupied by Aratrian soldiers, but Rasputin hasn&apos;t given up the fight.</p>]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/jwd97r2xx076ve99kr7a2dlbp6js/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11341866-00-prologue-a-bad-bit-of-meat.mp3" length="6361726" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11341866</guid>
+    <pubDate>Thu, 05 May 2022 00:00:00 -0400</pubDate>
+    <itunes:duration>524</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>true</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Trailer for The Final Face</itunes:title>
+    <title>Trailer for The Final Face</title>
+    <description><![CDATA[]]></description>
+    <content:encoded><![CDATA[]]></content:encoded>
+    <itunes:image href="https://storage.buzzsprout.com/variants/f7oojgmushrtmorhhcgv9elp5ynu/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg" />
+    <itunes:author>Sebastian Stark</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/1906631/11161983-trailer-for-the-final-face.mp3" length="801766" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-11161983</guid>
+    <pubDate>Sun, 01 May 2022 16:00:00 -0400</pubDate>
+    <itunes:duration>61</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
